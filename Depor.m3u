@@ -1,0 +1,63 @@
+#EXTM3U
+
+#EXTINF:-1 ,BARÇA TV
+http://tv.nousiptv.com:25462/Omy/1234/3104
+
+#EXTINF:-1 ,MOVISTAR CANAL GOLF HD
+http://tv.nousiptv.com:25462/Omy/1234/3149
+
+#EXTINF:-1 ,MOVISTAR FORMULA 1
+http://tv.nousiptv.com:25462/Omy/1234/3094
+
+#EXTINF:-1 ,MOVISTAR F1 FHD
+http://tv.nousiptv.com:25462/Omy/1234/53028
+
+#EXTINF:-1 ,MOVISTAR LALIGA FHD
+http://tv.nousiptv.com:25462/Omy/1234/32365
+
+#EXTINF:-1 ,REAL MADRID TV
+http://tv.nousiptv.com:25462/Omy/1234/3689
+
+#EXTINF:-1 ,GOL TV
+http://tv.nousiptv.com:25462/Omy/1234/3128
+
+#EXTINF:-1 ,TELEDEPORTE FHD
+http://tv.nousiptv.com:25462/Omy/1234/3173
+
+#EXTINF:-1 ,EUROSPORT 2
+http://tv.nousiptv.com:25462/Omy/1234/51352
+
+#EXTINF:-1 ,Fox Sports Premium
+https://espare.tk/live/fox_sports_premium_lat.m3u8?token=zIb3b558wZoyLk61iKVgyw&expires=1604115424
+
+#EXTINF:-1 ,Fox Sports
+https://espare.tk/live/fox_sports_arg.m3u8?token=PqiFt5LCJ6PsOAGWv-Xjaw&expires=1604115907
+
+#EXTINF:-1 ,Fox Sports2
+https://espare.tk/live/fox_sports2_lat.m3u8?token=Kh9tj8oFfFfUkabSDTpsCg&expires=1604116699
+
+#EXTINF:-1 ,Fox Sports3
+https://espare.tk/live/fox_sports3_lat.m3u8?token=vFutFw0AVwsVvCcOxN4TrQ&expires=1604116219
+
+#EXTINF:-1 ,ESPN
+https://espare.tk/live/espn_lat.m3u8?token=ILyUAOGa1BVETnca97dO9Q&expires=1604116273
+
+#EXTINF:-1 ,ESPN2
+https://espare.tk/live/espn2_lat.m3u8?token=M3Dh3I3nD7NbApoSp0G3ow&expires=1604116363
+
+#EXTINF:-1 ,ESPN3
+https://espare.tk/live/espn3_lat.m3u8?token=KvpXAwQpHE1EBrn29QC73g&expires=1604116459
+
+#EXTINF:-1 ,ESPN-EXTRA
+https://espare.tk/live/espn_plus_lat.m3u8?token=JMU-pkC7ghYjhQ5BoL1jbw&expires=1604116515
+
+#EXTINF:-1 ,DIRECTV SPORTS
+https://ul.cdn946.net:8443/hls/e22ikhoklfgl5zn.m3u8?s=N9JsRu8WYcAB2C63Et8mfA&e=1604116851
+
+#EXTINF:-1 ,DIRECTV SPORTS2
+https://ul.cdn946.net:8443/hls/xl27bc.m3u8?s=CAoRLXP0_b6rWQm1l0vaSw&e=1604117013
+
+
+
+
+
